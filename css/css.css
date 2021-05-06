@@ -1,0 +1,258 @@
+*{
+
+    margin: 0px;
+    padding: 0px;
+
+}
+
+ 
+
+.logo{
+    
+    width: 50px;
+    height: 50px;
+    
+}
+
+ 
+
+.nav{
+
+    list-style: none;
+    width: 450px;
+
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+
+}
+
+
+.enlace1{
+    font-family:sans-serif;
+    color: #fff;
+    text-decoration: none;
+    margin: 10px;
+    
+}
+ 
+.enlace2{
+    font-family:sans-serif;
+    color: #fff;
+    text-decoration: none;
+    margin: 20px;
+    
+}
+
+.enlace3{
+    font-family:sans-serif;
+    color: #fff;
+    text-decoration: none;
+    margin: 15px;
+    
+}
+
+.enlace4{
+    font-family:sans-serif;
+    color: #fff;
+    text-decoration: none;
+    margin: 10px;
+    
+}
+
+.enlace5{
+    font-family:sans-serif;
+    color: #fff;
+    text-decoration: none;
+    margin: 10px;
+    
+}
+
+.rectangulo1{
+
+    display: block;
+    width: 150px;
+    height: 25px;
+    margin: 5px;
+    padding-top: 5px;
+    
+
+    background-color: #E53935;
+
+}
+
+
+.rectangulo2{
+
+    display: block;
+    width: 150px;
+    height: 25px;
+    margin: 5px; 
+    padding-top: 5px;
+
+
+    background-color: #FBC02D;
+
+}
+
+
+.rectangulo3{
+
+    display: block;
+    width: 150px;
+    height: 25px;
+    margin: 5px;  
+    padding-top: 5px;
+   
+
+    background-color: #03A63C;
+
+}
+
+
+.rectangulo4{
+
+    display: block;
+    width: 150px;
+    height: 25px;
+    margin: 5px; 
+    padding-top: 5px;
+ 
+
+    background-color: #039BE5;
+
+}
+
+
+.rectangulo5{
+
+    display: block;
+    width: 150px;
+    height: 25px;
+    margin: 5px; 
+    padding-top: 5px;
+  
+
+    background-color: #616161;
+
+}
+
+ 
+
+.banner_index{
+
+    width: 100%;
+    height: 580px;
+    padding-top: 100px;
+    background-image: url(../img/banner.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    
+
+}
+
+ 
+
+.leyenda{
+    
+    font-family: sans-serif;
+    color: #fff;
+    font-size: 50px;
+    text-align: center;
+    display: block;
+    width: 350px;
+    height: 30px;
+    margin: auto;
+    padding: 50px;
+    margin-bottom: 20px;
+    
+
+}
+
+ 
+
+.leyenda-dos{
+    
+    font-family: sans-serif;
+    color: #fff;
+    text-align: center;
+    font-size: 20px;
+    display: block;
+    width: 550px;
+    height: 30px;
+    margin: auto;
+    margin-bottom: 40px;   
+    
+
+}
+
+ 
+
+.btn_banner{
+
+    display: block;
+    width: 150px;
+    height: 20px;
+    margin: auto;
+    text-align: center;
+    text-decoration: none;
+    font-family: sans-serif;
+    padding: 10px;  
+    border-radius: 20px;
+    margin-top: 15px;
+
+    background-color: #616161;
+    color: #fff;
+    text-decoration: none;
+    font-family: sans-serif;
+
+}
+
+.caja{
+
+    width: 100%;
+    margin: auto;
+
+   
+
+    display: flex;
+
+}
+
+.caja1{
+    
+    width: 200px;
+    height: 200px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-left: 370px;
+    margin-right: 120px;
+    padding: 15px;
+    
+}
+
+.caja2{
+    width: 200px;
+    height: 200px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-left: 120px;
+    margin-right: 120px;
+    padding: 15px;
+ 
+
+  
+}
+
+
+.caja3{
+    
+    width: 200px;
+    height: 200px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-left: 120px;
+    margin-right: 300px;
+    padding: 15px;
+  
+}
